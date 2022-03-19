@@ -4,4 +4,4 @@ prog_name := poetrybot
 libs := wire LCD-NHD0440 i2cparallel dbg
 src_dirs := .
 
-include ../makefiles/arduino.mk
+include ../arduino-makefile/arduino.mk
