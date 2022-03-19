@@ -12,7 +12,7 @@ This requires the following of my other Arduino libraries:
 
 * [i2cparallel](https://github.com/kimballa/i2cparallel)
 * [LCD-NHD0440](https://github.com/kimballa/LCD-NHD0440)
-* [libarduinodbg](https://github.com/kimballa/libarduinodbg)
+* [PyArduinoDebug](https://github.com/kimballa/PyArduinoDebug)
 
 This latter dependency is optional; comment out the `#include<dbg.h>` line if you don't
 want to compile with debugger support.
